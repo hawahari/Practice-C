@@ -1,1 +1,2 @@
-union and structure
+union and structure different
+Union lets us to reuse space
