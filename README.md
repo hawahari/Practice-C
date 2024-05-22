@@ -13,7 +13,19 @@ clean:<br>
 	rm -f ex1<br>
 you can run make clean</br>
 CFLAGS gives warnings </br>
- 
+#### gdb
+- debugger
+- gdb in terminal.
+- run
+- quit
+- make sure program is compiled.eg: gdb ex2
+- step
+- break 7.sets a breakpoint at line 7.
+- continue
+- disassemble main
+- info reg
+  ![Screenshot from 2024-05-22 18-35-39](https://github.com/hawahari/Practice-C/assets/149294262/752c5e25-0815-4993-a491-d4dcb600ad15)
+
 ### Libraries
 - <stdio.h>
 - <string.h>
