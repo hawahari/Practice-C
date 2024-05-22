@@ -42,5 +42,4 @@ CFLAGS gives warnings </br>
 - <stdlib.h>
 - <unistd.h> : provides access to POSIX OS.
 - <netinet/in.h> : handling internet protocols, specifically IPv4 and IPv6.
-  ![image](https://github.com/hawahari/Practice-C/assets/149294262/c2086096-ae9e-4480-876f-54a660adfd27)
 
