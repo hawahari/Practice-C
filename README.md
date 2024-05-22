@@ -5,7 +5,7 @@ Just want to practice C
 ##### gcc asv.c -o asv
 - same output as above. -o tells the input after it is the output.
 ##### make
--eg: 
+-eg:</br> 
 ![Screenshot from 2024-05-22 17-13-48](https://github.com/hawahari/Practice-C/assets/149294262/3348d875-9b80-4fe7-bdb6-cd9a12a44497)
 
 ### Libraries
