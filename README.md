@@ -4,6 +4,8 @@ Just want to practice C
 - produces asv output(exe) if windows.
 ##### gcc asv.c -o asv
 - same output as above. -o tells the input after it is the output.
+##### gcc -g asv.c -o asv
+- parameter g adds source level information then gdb can be run normally.
 ##### make
 -eg:</br> 
 ![Screenshot from 2024-05-22 17-13-48](https://github.com/hawahari/Practice-C/assets/149294262/3348d875-9b80-4fe7-bdb6-cd9a12a44497)
