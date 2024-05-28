@@ -44,4 +44,7 @@ CFLAGS gives warnings </br>
 - <stdlib.h>
 - <unistd.h> : provides access to POSIX OS.
 - <netinet/in.h> : handling internet protocols, specifically IPv4 and IPv6.
-
+##### Miscellaneous
+- Pointer size depends on architecture x86 and x64
+- union and structure different
+- Union lets us to reuse space
