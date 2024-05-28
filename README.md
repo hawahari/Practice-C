@@ -50,3 +50,5 @@ CFLAGS gives warnings </br>
 - Union lets us to reuse space
 ##### Output
 ![image](https://github.com/hawahari/Practice-C/assets/149294262/fea6730c-db8e-4ece-b4f2-18fc2f8df8e2)
+![image](https://github.com/hawahari/Practice-C/assets/149294262/0b9a481c-7e91-456e-9a9a-21259075c249)
+
