@@ -48,3 +48,5 @@ CFLAGS gives warnings </br>
 - Pointer size depends on architecture x86 and x64
 - union and structure different
 - Union lets us to reuse space
+##### Output
+![image](https://github.com/hawahari/Practice-C/assets/149294262/fea6730c-db8e-4ece-b4f2-18fc2f8df8e2)
