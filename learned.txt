@@ -1,3 +1,0 @@
-Pointer size depends on architecture x86 and x64
-union and structure different
-Union lets us to reuse space
