@@ -15,9 +15,10 @@ CFLAGS=-Wall -g<br>
 clean:<br>
 ```
 	rm -f ex1
-you can run make clean
-CFLAGS gives warnings 
 ```
+you can run make clean</br>
+CFLAGS gives warnings </br>
+
 #### gdb
 - debugger
 - gdb in terminal.
