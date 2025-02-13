@@ -13,11 +13,11 @@ Just want to practice C
 CFLAGS=-Wall -g<br>
 
 clean:<br>
-'''
+```
 	rm -f ex1
 you can run make clean
 CFLAGS gives warnings 
-'''
+```
 #### gdb
 - debugger
 - gdb in terminal.
